@@ -1,0 +1,6 @@
+Books 300.00
+Food 500.00
+Transport 200.00
+
+Tution 2000.00
+Clothes 1000.00
