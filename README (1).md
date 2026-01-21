@@ -40,5 +40,5 @@ The goal of this project was to create a practical, real-world utility while app
 ## Conclusion
 This project demonstrates practical application of C programming and core software engineering principles. It highlights modular design, file handling, and structured data management — skills directly relevant to backend development roles.
 
-## Authors
+## Author
 - Jeenia Basu
